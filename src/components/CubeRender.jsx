@@ -5,7 +5,7 @@ function CubeRender() {
     useEffect(() => {
         const scrambleText = document.querySelector('#scramble')
         const cubeRender = document.querySelector('#cubeRender');
-        cubeRender.src = `https://visualcube.api.cubing.net/visualcube.php?fmt=svg&size=250&pzl=3&alg=x2${scrambleText.innerHTML}`
+        cubeRender.src = `https://visualcube.api.cubing.net/visualcube.php?fmt=svg&size=250&pzl=3&alg=x2${scrambleText.innerHTML}&bg=black`
       });
 
     return (

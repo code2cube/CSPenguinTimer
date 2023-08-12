@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-function Top() {
+function ScrambleGeneration() {
     const moves = ["R", "L", "U", "D", "F", "B"]
 
     function generateScramble() {
@@ -39,7 +39,7 @@ function Top() {
 
     return (
         <div>
-            <div id="top">
+            <div id="ScrambleGeneration">
                 <div className="container text-center py-3">
                     <h1>Scramble:</h1>
                     <h3 id="scramble">...</h3>
@@ -49,4 +49,4 @@ function Top() {
     );
 }
 
-export default Top;
+export default ScrambleGeneration;

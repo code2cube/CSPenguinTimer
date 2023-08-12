@@ -1,18 +1,21 @@
-#top {
+body {
+    background-color: skyblue;
+}
+
+#ScrambleGeneration {
     background-color: black;
     color: white;
     height: 15vh;
 }
 
 @media only screen and (max-width: 317px) {
-    #top {
+    #ScrambleGeneration {
       height: 20vh;
     }
 }
 
 @media only screen and (max-width: 169px) {
-    #top {
+    #ScrambleGeneration {
       height: 25vh;
     }
 }
-

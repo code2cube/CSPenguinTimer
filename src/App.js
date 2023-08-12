@@ -1,11 +1,11 @@
 import './App.css';
-import Top from './components/Top';
+import ScrambleGeneration from './components/ScrambleGeneration';
 import CubeRender from './components/CubeRender';
 
 function App() {
   return (
     <div className="App">
-      <Top />
+      <ScrambleGeneration />
       <CubeRender />
     </div>
   );
