@@ -1,0 +1,18 @@
+#top {
+    background-color: black;
+    color: white;
+    height: 15vh;
+}
+
+@media only screen and (max-width: 317px) {
+    #top {
+      height: 20vh;
+    }
+}
+
+@media only screen and (max-width: 169px) {
+    #top {
+      height: 25vh;
+    }
+}
+

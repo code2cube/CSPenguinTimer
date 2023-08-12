@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CSPenguinTimer/static/css/main.31d6cfe0.css",
+    "main.js": "/CSPenguinTimer/static/js/main.005f83ac.js",
+    "static/js/787.f90725c4.chunk.js": "/CSPenguinTimer/static/js/787.f90725c4.chunk.js",
+    "index.html": "/CSPenguinTimer/index.html",
+    "main.005f83ac.js.map": "/CSPenguinTimer/static/js/main.005f83ac.js.map",
+    "787.f90725c4.chunk.js.map": "/CSPenguinTimer/static/js/787.f90725c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.005f83ac.js"
+  ]
+}

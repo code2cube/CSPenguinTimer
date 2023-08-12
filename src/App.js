@@ -1,10 +1,12 @@
 import './App.css';
-import Title from './components/Title';
+import Top from './components/Top';
+import CubeRender from './components/CubeRender';
 
 function App() {
   return (
-    <div className="App container-fluid">
-      <Title />
+    <div className="App">
+      <Top />
+      <CubeRender />
     </div>
   );
 }
